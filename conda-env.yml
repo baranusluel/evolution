@@ -6,4 +6,5 @@ dependencies:
   - pip
   - pip:
     - numpy==1.18.1
-    - opencv-python
+    - opencv-python==3.4.2.17
+    - opencv-contrib-python==3.4.2.17
